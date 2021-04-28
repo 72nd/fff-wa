@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.8875"
-     inkscape:cx="55.59116"
-     inkscape:cy="42.62556"
+     inkscape:zoom="2.94375"
+     inkscape:cx="28.435176"
+     inkscape:cy="152.85795"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -36,10 +36,10 @@
      units="px"
      inkscape:window-width="1440"
      inkscape:window-height="810"
-     inkscape:window-x="2007"
-     inkscape:window-y="169"
+     inkscape:window-x="494"
+     inkscape:window-y="230"
      inkscape:window-maximized="0"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid1692"
@@ -141,5 +141,16 @@
          x="20.193865"
          y="5.3444743"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529165">Open</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.39144px;line-height:100%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#93ff9c;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.550236"
+       y="22.886211"
+       id="text909"><tspan
+         sodipodi:role="line"
+         id="tspan907"
+         x="12.550236"
+         y="22.886211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker';stroke-width:0.529167">Willkommen!</tspan></text>
   </g>
 </svg>
