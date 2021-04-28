@@ -31,6 +31,12 @@
                  "id":17,
                  "name":"L: Board",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/www.gibt-es-schon-wieder-klopapier.de\/"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":80,
