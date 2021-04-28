@@ -5091,7 +5091,7 @@
 </data>
  </layer>
  <objectgroup id="15" name="V: Obj. Content">
-  <object id="1" x="132.615" y="711.833" width="91.4375" height="19">
+  <object id="1" x="130.615" y="715.167" width="91.4375" height="19">
    <text fontfamily="Permanent Marker" wrap="1" color="#ffffff">Wellcome!</text>
   </object>
  </objectgroup>

@@ -101,7 +101,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.xarg.org\/project\/html5-snake\/"
+                         "value":"https:\/\/cdpn.io\/CaioPaiola\/fullpage\/GFpuK"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -184,8 +184,8 @@
                  "type":"",
                  "visible":true,
                  "width":91.4375,
-                 "x":132.614583333333,
-                 "y":711.833333333333
+                 "x":130.614583333333,
+                 "y":715.166666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
