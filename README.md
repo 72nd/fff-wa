@@ -4,7 +4,7 @@ Currently Work Adventure.
 
 ## Wichtiger Hinweis betreffend LFS
 
-Diese Repository verwendet [Git Large File Storage (LFS)](https://git-lfs.github.com/) um die Binärdateien (Bilder, Audio etc.) zu verwalten. Wer mehr über die Gründe und die Technik hinter lfs lernen will, sei auf [diesen Blogbeitrag](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-lfs/) verwiesen (nicht notwendig). Da LFS nicht Teil der Standartinstallation von git ist, _muss diese Komponente vor dem Nutzen dieser Repo installiert werden_.
+Diese Repository verwendet [Git Large File Storage (LFS)](https://git-lfs.github.com/) um Binärdateien (Bilder, Audio etc.) zu verwalten, welche nicht direkt Teil der Map sind (also keine PNG's oder mp3). Wer mehr über die Gründe und die Technik hinter lfs lernen will, sei auf [diesen Blogbeitrag](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-lfs/) verwiesen (nicht notwendig). Da LFS nicht Teil der Standartinstallation von git ist, _muss diese Komponente vor dem Nutzen dieser Repo installiert werden_.
 
 Hier einen kurzen Überblick, wie LFS auf den jeweiligen Systemen installiert werden kann (weitere Informationen finden sich in der [Dokumentation](https://github.com/git-lfs/git-lfs/wiki/Installation)):
 
