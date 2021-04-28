@@ -56,7 +56,7 @@
         {
          "columns":58,
          "firstgid":1,
-         "image":"tilesets\/map.png?raw=true",
+         "image":"tilesets\/map.png",
          "imageheight":1790,
          "imagewidth":1882,
          "margin":0,
@@ -69,7 +69,7 @@
         {
          "columns":58,
          "firstgid":3191,
-         "image":"tilesets\/bounce-house.png?raw=true",
+         "image":"tilesets\/bounce-house.png",
          "imageheight":1790,
          "imagewidth":1882,
          "margin":0,
