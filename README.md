@@ -11,3 +11,8 @@ Hier einen kurzen Überblick, wie LFS auf den jeweiligen Systemen installiert we
 - **Linux:** LFS findet sich in den meisten großen Distributionen (Ubuntu, Debian, RHEL) in den Paketquellen. Der Paketname ist meist `git-lfs`
 - **MacOS:** Am einfachsten mit [brew](https://brew.sh/) zu installieren, `brew install git-lfs`.
 - **Windows:** Auf der [Release-Seite](https://github.com/git-lfs/git-lfs/releases) in der Liste nach »Windows Installer« suchen, diese Datei runter laden und installieren.
+
+
+## Sources
+
+- [Houses](https://szadiart.itch.io/houses-pack)
