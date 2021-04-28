@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3261823"
-     inkscape:cx="43.815646"
-     inkscape:cy="21.810458"
+     inkscape:zoom="5.8875"
+     inkscape:cx="55.59116"
+     inkscape:cy="42.62556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -122,5 +122,24 @@
          x="12.083212"
          y="5.3444743"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529165">Block</tspan></text>
+    <rect
+       style="fill:#008000;fill-opacity:0.2;stroke:#008000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect1697-3-5"
+       width="7.9374995"
+       height="7.9374995"
+       x="17.197916"
+       y="0.2645835" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:2.43894px;line-height:100%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Medium';font-feature-settings:italic;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;fill:#ff0000;fill-opacity:0.2;stroke:#ff0000;stroke-width:0.529165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       x="20.193865"
+       y="5.3444743"
+       id="text845-6-3"
+       transform="scale(1.0438946,0.95795113)"><tspan
+         sodipodi:role="line"
+         id="tspan843-7-5"
+         x="20.193865"
+         y="5.3444743"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529165">Open</tspan></text>
   </g>
 </svg>
