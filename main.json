@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"fff-prototype.json"
+         "target":"main.json"
         }
     },
  "height":55,
