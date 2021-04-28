@@ -4610,7 +4610,7 @@
   </layer>
   <layer id="13" name="L: Piano" width="80" height="55">
    <properties>
-    <property name="openWebsite" value="https://www.onlinepianist.com/virtual-piano"/>
+    <property name="openWebsite" value="https://mczak.com/code/piano/pianoframe/"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
