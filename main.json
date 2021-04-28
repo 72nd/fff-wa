@@ -880,8 +880,45 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":3191,
-         "source":"tilesets\/test.tsx"
+         "image":"tilesets\/test.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Test",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
