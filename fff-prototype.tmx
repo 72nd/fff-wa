@@ -4793,7 +4793,7 @@
   </layer>
   <layer id="16" name="L: Snake" width="80" height="55">
    <properties>
-    <property name="openWebsite" value="https://www.xarg.org/project/html5-snake/"/>
+    <property name="openWebsite" value="https://cdpn.io/CaioPaiola/fullpage/GFpuK"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
