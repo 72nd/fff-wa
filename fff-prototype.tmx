@@ -11,6 +11,11 @@
    <property name="collides" type="bool" value="true"/>
   </properties>
   <image source="tilesets/bounce-house.png" width="1882" height="1790"/>
+  <tile id="177">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <layer id="3" name="start" width="58" height="55">
   <data encoding="csv">
