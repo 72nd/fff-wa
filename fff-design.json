@@ -54,7 +54,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"open website",
+                 "name":"open Website",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/Xw19Z1xkzJ4"
                 }],
@@ -96,7 +96,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Play Audio",
+                 "name":"play Audio",
                  "type":"string",
                  "value":"https:\/\/github.com\/72nd\/fff-wa\/blob\/master\/media\/toilet.mp3"
                 }],
