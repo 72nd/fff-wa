@@ -962,7 +962,7 @@
  </layer>
  <layer id="36" name="BASF-Lab" width="112" height="112">
   <properties>
-   <property name="openWebsite" value="https://basf.kids-interactive.de/"/>
+   <property name="openWebsite" value="https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter_en.html"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

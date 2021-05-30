@@ -134,7 +134,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/basf.kids-interactive.de\/"
+                 "value":"https:\/\/phet.colorado.edu\/sims\/html\/states-of-matter\/latest\/states-of-matter_en.html"
                 }],
          "type":"tilelayer",
          "visible":true,
