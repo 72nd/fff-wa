@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 169.33333 169.33334"
+   version="1.1"
+   id="svg3139"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="texts.svg"
+   inkscape:export-filename="/home/irvin/repos/fff-wa/tilesets/texts.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3133" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6078125"
+     inkscape:cx="196.22935"
+     inkscape:cy="59.397473"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2242"
+     inkscape:window-height="1279"
+     inkscape:window-x="2516"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-paths="true"
+     inkscape:snap-others="true"
+     inkscape:pagecheckerboard="0"
+     showguides="true"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3729"
+       spacingx="8.4666667"
+       spacingy="8.4666667"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-feature-settings:italic;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;fill:#000000;fill-opacity:1;stroke-width:0.661458;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="-0.046508688"
+       y="2.6992264"
+       id="text11767"><tspan
+         sodipodi:role="line"
+         x="-0.046508688"
+         y="2.6992264"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.661458"
+         id="tspan11769"><tspan
+           id="tspan11771"
+           style="font-size:3.52777px;fill:#000000;stroke-width:0.661458">WA »Festival für Freunde« Tiles. <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+   id="tspan13478">Text.</tspan> Version 1.0, 2021/07/22.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-0.046508688"
+         y="6.3190866"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.661458"
+         id="tspan11773">© 2021 Festival für Freunde e.V. All rights reserved.</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#e5007e;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000;stop-opacity:1"
+       id="rect30927-2"
+       width="16.271879"
+       height="7.8052087"
+       x="178.13074"
+       y="0.33072901" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#e5007e;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect30927-2-3"
+       width="24.738544"
+       height="7.8052087"
+       x="178.13072"
+       y="8.7973957" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#e5007e;stroke-width:0.661459;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect30927-2-8"
+       width="41.671879"
+       height="7.8052087"
+       x="178.13074"
+       y="25.73073" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#e5007e;stroke-width:0.661457;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect30927-2-8-9"
+       width="33.205212"
+       height="7.8052087"
+       x="178.13072"
+       y="17.264063" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.989834"
+       y="14.804262"
+       id="text28319"><tspan
+         sodipodi:role="line"
+         id="tspan28317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.989834"
+         y="14.804262">Welcome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="8.5259151"
+       y="23.221321"
+       id="text28319-4"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="8.5259151"
+         y="23.221321">WC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.577356"
+       y="31.737597"
+       id="text28319-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="12.577356"
+         y="31.737597">Kino</tspan></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#e5007e;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect30927-2-8-1"
+       width="50.138546"
+       height="7.8052087"
+       x="178.13074"
+       y="34.197395" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.662794"
+       y="40.117447"
+       id="text28319-4-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="12.662794"
+         y="40.117447">Essen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="21.325144"
+       y="48.670929"
+       id="text28319-4-9-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="21.325144"
+         y="48.670929">Treckerecke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="21.294827"
+       y="57.137596"
+       id="text28319-4-9-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="21.294827"
+         y="57.137596">Alte Scheune</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.897505"
+       y="65.604263"
+       id="text28319-4-9-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.897505"
+         y="65.604263">Scheune</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="8.189683"
+       y="73.984116"
+       id="text28319-4-9-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="8.189683"
+         y="73.984116">Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.806549"
+       y="81.990517"
+       id="text28319-4-9-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.806549"
+         y="81.990517">Herberge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.925058"
+       y="91.004265"
+       id="text28319-4-9-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-55"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.925058"
+         y="91.004265">Galerie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.573222"
+       y="99.470932"
+       id="text28319-4-9-6-74"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-91"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="12.573222"
+         y="99.470932">Bühne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.756501"
+       y="107.9376"
+       id="text28319-4-9-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-94"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="12.756501"
+         y="107.9376">Wiese</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="12.573222"
+       y="124.87093"
+       id="text28319-4-9-6-90"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-51"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="12.573222"
+         y="124.87093">Hilfe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.774853"
+       y="115.80758"
+       id="text28319-4-9-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-78"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.774853"
+         y="115.80758">Camper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="21.154266"
+       y="132.79051"
+       id="text28319-4-9-6-28"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="21.154266"
+         y="132.79051">Dschungel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="21.439516"
+       y="141.80426"
+       id="text28319-4-9-6-80"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-58"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="21.439516"
+         y="141.80426">Theaterstall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.987072"
+       y="150.22133"
+       id="text28319-4-9-6-80-4"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-58-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.987072"
+         y="150.22133">Stream</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';font-feature-settings:italic;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;stroke-width:0.0352777;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       x="16.777609"
+       y="158.19052"
+       id="text28319-4-9-6-80-5"><tspan
+         sodipodi:role="line"
+         id="tspan28317-4-9-6-58-11"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura-Medium;-inkscape-font-specification:Futura-Medium;fill:#000000;stroke-width:0.0352777"
+         x="16.777609"
+         y="158.19052">Parkplatz</tspan></text>
+  </g>
+</svg>
