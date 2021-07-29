@@ -3327,7 +3327,7 @@
  </layer>
  <layer id="51" name="Plasmakugel-Video" width="112" height="112">
   <properties>
-   <property name="openWebsite" value="https://youtu.be/HADDQz-eKrc"/>
+   <property name="openWebsite" value="https://www.youtube.com/embed/HADDQz-eKrc"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

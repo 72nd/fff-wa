@@ -452,7 +452,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/HADDQz-eKrc"
+                 "value":"https:\/\/www.youtube.com\/embed\/HADDQz-eKrc"
                 }],
          "type":"tilelayer",
          "visible":true,
